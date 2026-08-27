@@ -3,7 +3,7 @@
 Interesting self-hosted, AI/LLM, MCP and developer-tooling projects,
 refreshed daily by GitHub Actions. Past snapshots live in [`archive/`](archive/).
 
-_Updated 2026-08-27 13:47 UTC · 149 projects_
+_Updated 2026-08-27 13:48 UTC · 149 projects_
 
 ## Self-hosted
 

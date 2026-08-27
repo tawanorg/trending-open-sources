@@ -1,0 +1,42 @@
+name: Update trending list
+
+on:
+  schedule:
+    - cron: "17 6 * * *"      # daily, 06:17 UTC
+  workflow_dispatch:           # and on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-trending
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build README and dated archive entry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # Only the "Updated ..." timestamp changing is still a real daily
+          # snapshot, so commit whenever the tree differs at all.
+          if git diff --quiet --staged; then
+            echo "no changes"
+          else
+            git commit -m "Update trending list $(date -u +%F)"
+            git push
+          fi

@@ -6,7 +6,7 @@ Apache-2.0, BSD, MPL-2.0) — AGPL, SSPL and BUSL are excluded because
 they are what stops you offering the thing as a hosted service. AI is
 filtered out rather than sought. Past snapshots live in [`archive/`](archive/).
 
-_Updated 2026-08-30 10:07 UTC · 372 projects_
+_Updated 2026-08-30 11:53 UTC · 372 projects_
 
 ## Self-hosted
 
@@ -57,13 +57,13 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha) | 867 | MIT | Python | ⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible mu… |
 | [daggerhashimoto/openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) | 866 | MIT | TypeScript | Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control… |
 | [lklynet/hypermind](https://github.com/lklynet/hypermind) | 841 | MIT | JavaScript | The High-Availability Solution to a Problem That Doesn't Exist. |
-| [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) | 758 | MIT | Go | LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Ta… |
+| [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) | 759 | MIT | Go | LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Ta… |
 
 ## Monitoring & analytics
 
 | Repo | Stars | Licence | Language | Description |
 |---|---:|---|---|---|
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 92.0k | MIT | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presenc… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 92.1k | MIT | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presenc… |
 | [apache/superset](https://github.com/apache/superset) | 74.5k | Apache-2.0 | Python | Apache Superset is a Data Visualization and Data Exploration Platform |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 65.9k | Apache-2.0 | Go | The Prometheus monitoring system and time series database. |
 | [huginn/huginn](https://github.com/huginn/huginn) | 49.9k | MIT | Ruby | Create agents that monitor and act on your behalf. Your agents are standing by! |
@@ -85,7 +85,7 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | 15.7k | MIT | C | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malwa… |
 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | 15.6k | MIT | TypeScript | Build production-ready applications in TypeScript |
 | [thanos-io/thanos](https://github.com/thanos-io/thanos) | 14.2k | Apache-2.0 | Go | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. |
-| [ClementTsang/bottom](https://github.com/ClementTsang/bottom) | 13.9k | MIT | Rust | Yet another cross-platform graphical process/system monitor. |
+| [ClementTsang/bottom](https://github.com/ClementTsang/bottom) | 14.0k | MIT | Rust | Yet another cross-platform graphical process/system monitor. |
 | [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) | 13.9k | Apache-2.0 | Java | APM, (Application Performance Management) tool for large-scale distributed systems. |
 | [QwikDev/partytown](https://github.com/QwikDev/partytown) | 13.8k | MIT | TypeScript | Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 |
 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 13.7k | Apache-2.0 | Rust | dbt enables data analysts and engineers to transform their data using the same practices that software engine… |
@@ -241,8 +241,8 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) | 3.3k | MIT | TypeScript | A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-h… |
 | [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) | 3.2k | Apache-2.0 | C# | Free open source office suite with business productivity tools: document and project management, CRM, mail ag… |
 | [Hexagon/croner](https://github.com/Hexagon/croner) | 2.6k | MIT | TypeScript | Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. N… |
-| [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | MIT | PHP | Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services. |
 | [frappe/frappe_docker](https://github.com/frappe/frappe_docker) | 2.5k | MIT | Python | Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in pr… |
+| [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | MIT | PHP | Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services. |
 | [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) | 2.4k | MIT |  | (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis. |
 | [Django-CRM/Django-CRM](https://github.com/Django-CRM/Django-CRM) | 2.4k | MIT | Python | Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever |
 | [inlife/nexrender](https://github.com/inlife/nexrender) | 1.9k | MIT | JavaScript | 📹 Data-driven render automation for After Effects |
@@ -299,7 +299,7 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [gingerbeardman/stapler](https://github.com/gingerbeardman/stapler) | 279 | MIT | Swift | My take on the classic Macintosh app Stapler (with a little bit of LaunchList) |
 | [Zaloog/kanban-tui](https://github.com/Zaloog/kanban-tui) | 277 | MIT | Python | Task Manager with a TUI written in Python and usable by agents |
 | [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle) | 267 | MIT | PHP | Cashier Paddle provides an expressive, fluent interface to Paddle's subscription billing services. |
-| [nateherkai/snagtime](https://github.com/nateherkai/snagtime) | 259 | MIT | TypeScript | Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe t… |
+| [nateherkai/snagtime](https://github.com/nateherkai/snagtime) | 261 | MIT | TypeScript | Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe t… |
 | [HolonProduction/godot_kanban_tasks](https://github.com/HolonProduction/godot_kanban_tasks) | 249 | MIT | GDScript | Another kanban board plugin for the godot engine. |
 | [TUM-AVS/FM-AD-Survey](https://github.com/TUM-AVS/FM-AD-Survey) | 233 | Apache-2.0 | Python | [Survey Paper] This repository collects research papers of large Foundation Models for Scenario Generation an… |
 | [MythicalLTD/MythicalDash](https://github.com/MythicalLTD/MythicalDash) | 232 | MIT | PHP | The best pterodactyl client area! :) |
@@ -372,7 +372,7 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) | 923 | MIT | TypeScript | Batteries-included backend that works with any stack. |
 | [digital-asset/daml](https://github.com/digital-asset/daml) | 914 | Apache-2.0 | Haskell | The Daml smart contract language |
 | [dsheiko/puppetry](https://github.com/dsheiko/puppetry) | 890 | MIT | JavaScript | Web testing solution for non-developers on top of Puppeteer and Jest |
-| [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) | 818 | MIT | Go | Database-Backed Durable Golang Workflows |
+| [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) | 819 | MIT | Go | Database-Backed Durable Golang Workflows |
 | [Antonito/gfile](https://github.com/Antonito/gfile) | 761 | MIT | Go | Direct file transfer over WebRTC |
 | [TouK/nussknacker](https://github.com/TouK/nussknacker) | 742 | Apache-2.0 | Scala | Low-code tool for automating actions on real time data \| Stream processing for the users. |
 | [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) | 704 | Apache-2.0 | Go Template | A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services… |
@@ -381,7 +381,7 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [AtomGraph/LinkedDataHub](https://github.com/AtomGraph/LinkedDataHub) | 628 | Apache-2.0 | XSLT | The low-code Knowledge Graph application platform. Apache license. |
 | [slowlyo/owl-admin](https://github.com/slowlyo/owl-admin) | 616 | MIT | PHP | 🎈 Owl Admin : 基于 laravel 和 amis 开发的后台框架, 友好的组件使用体验, 可轻松实现复杂页面, 内置代码生成器, 让开发者快速搭建后台管理系统 |
 | [apache/camel-karavan](https://github.com/apache/camel-karavan) | 594 | Apache-2.0 | TypeScript | Apache Camel Karavan a Low-code Data Integration Platform |
-| [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) | 585 | MIT | HTML | Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools. |
+| [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) | 586 | MIT | HTML | Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools. |
 | [goatplatform/goatdb](https://github.com/goatplatform/goatdb) | 571 | MIT | TypeScript | A peer-to-peer database that spans devices. For apps and agents that work everywhere. |
 | [TotallyInformation/node-red-contrib-uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) | 526 | Apache-2.0 | JavaScript | Easily create data-driven web UI's for Node-RED. Single- & Multi-page. Multiple UI's. Work with existing web… |
 | [temporalio/sdk-rust](https://github.com/temporalio/sdk-rust) | 510 | MIT | Rust | Temporal Rust & Core SDKs |
@@ -393,7 +393,7 @@ _Updated 2026-08-30 10:07 UTC · 372 projects_
 | [cvhariharan/flowctl](https://github.com/cvhariharan/flowctl) | 332 | Apache-2.0 | Go | An open source self-service workflow execution platform |
 | [jR4dh3y/BoxBox](https://github.com/jR4dh3y/BoxBox) | 316 | MIT | Go | A modern, self-hosted web based file manager for your homelab. Built in SvelteKit & Go |
 | [pneumaticapp/pneumaticworkflow](https://github.com/pneumaticapp/pneumaticworkflow) | 315 | Apache-2.0 | Python | Free and source-available Apache 2.0 licensed lightweight workflow automation tool. |
-| [pgflow-dev/pgflow](https://github.com/pgflow-dev/pgflow) | 306 | Apache-2.0 | TypeScript | Postgres-centric workflow engine with deep integration with Supabase |
+| [pgflow-dev/pgflow](https://github.com/pgflow-dev/pgflow) | 307 | Apache-2.0 | TypeScript | Postgres-centric workflow engine with deep integration with Supabase |
 | [saeloun/miru-web](https://github.com/saeloun/miru-web) | 266 | MIT | TypeScript | Miru \| Time Tracking and Invoicing and Employee Benefits. Built using Ruby On Rails and ReactJS |
 | [ngosang/docker-amule](https://github.com/ngosang/docker-amule) | 264 | MIT | Shell | aMule is a multi-platform client for the ED2K file sharing network |
 | [number571/hidden-lake](https://github.com/number571/hidden-lake) | 257 | MIT | Go | 🛡️ Anonymous F2F network based on the QB-problem & GP/12 protocol stack. Uses post-quantum cryptographic algo… |
